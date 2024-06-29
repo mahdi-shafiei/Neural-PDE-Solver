@@ -219,6 +219,10 @@ Contributed by Chunyang Zhang.
 
    *Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi, and Anima Anandkumar.* 
 
+1. **Learning dynamical systems from data: An introduction to physics-guided deep learning.** PNAS, 2024. [paper](https://www.pnas.org/doi/10.1073/pnas.2311808121)
+
+   *Rose Yu and Rui Wang.* 
+
 
 ## [Model](#content) 
 ### [PINN](#content)
@@ -846,6 +850,14 @@ Contributed by Chunyang Zhang.
 
    *Daniel Zhengyu Huang, Nicholas H. Nelsen, and Margaret Trautner.*
 
+1. **Learning the boundary-to-domain mapping using lifting product Fourier neural operators for partial differential equations.** ICML, 2024. [paper](https://arxiv.org/abs/2406.16740)
+
+   *Aditya Kashi, Arka Daw, Muralikrishnan Gopalakrishnan Meena, and Hao Lu.*
+
+1. **Accelerating phase field simulations through a hybrid adaptive fourier neural operator with U-net backbone.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.17119)
+
+   *Christophe Bonneville, Nathan Bieberdorf, Arun Hegde, Mark Asta, Habib N. Najm, Laurent Capolungo, and Cosmin Safta.*
+
 1. **Gabor-filtered Fourier neural operator for solving partial differential equations.** Computers & Fluids, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045793024000719)
 
    *Kai Qi and Jian Sun.*
@@ -1404,10 +1416,6 @@ Contributed by Chunyang Zhang.
 
    *Xiongye Xiao, Defu Cao, Ruochen Yang, Gaurav Gupta, Chenzhong Yin, Gengshuo Liu, Radu Balan, and Paul Bogdan.*
 
-1. **LNO: Laplace neural operator for solving differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.10528)
-
-   *Qianying Cao, Somdatta Goswami, and George Em Karniadakis.*
-
 1. **Vandermonde neural operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.19663)
 
    *Levi Lingsch, Mike Michelis, Sirani M. Perera, Robert K. Katzschmann, and Siddartha Mishra.*
@@ -1528,6 +1536,9 @@ Contributed by Chunyang Zhang.
 
    *Tengfei Xu, Dachuan Liu, Peng Hao, and Bo Wang.*
 
+1. **Laplace neural operator for solving differential equations.** NMI, 2024. [paper](https://www.nature.com/articles/s42256-024-00844-4)
+
+   *Qianying Cao, Somdatta Goswami, and George Em Karniadakis.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -2356,6 +2367,10 @@ Contributed by Chunyang Zhang.
 1. **A novel A.I enhanced reservoir characterization with a combined mixture of experts -- NVIDIA modulus based physics informed neural operator forward model.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.14447)
 
    *Clement Etienam, Yang Juntao, Issam Said, Oleg Ovcharenko, Kaustubh Tangsali, Pavel Dimitrov, and Ken Hester.*
+
+1. **An advanced physics-informed neural operator for comprehensive design optimization of highly-nonlinear systems: An aerospace composites processing case study.** ICML, 2024. [paper](https://openreview.net/forum?id=7eqJypc7RK)
+
+   *Milad Ramezankhani, Anirudh Deodhar, Rishi Yash Parekh, and Dagnachew Birru.*
 
 ### [Investigation](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
@@ -4560,6 +4575,11 @@ Contributed by Chunyang Zhang.
 
    *Marten Lienen, David Lüdke, Jan Hansen-Palmus, and Stephan Günnemann.*
 
+1. **Enhancing the accuracy of physics-informed neural networks for indoor airflow simulation with experimental data and Reynolds-averaged Navier–Stokes turbulence model.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/065161/3299253/Enhancing-the-accuracy-of-physics-informed-neural?redirectedFrom=fulltext)
+
+   *Chi Zhang, Chih-Yung Wen, Yuan Jia, Yu-Hsuan Juan, Yee-Ting Lee, Zhengwei Chen, An-Shik Yang, and Zhengtong Li.*
+
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4854,6 +4874,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed machine learning using low-fidelity flowfields for inverse airfoil shape design.** AIAA, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/1.J063570)
 
    *Benjamin Y. J. Wong, Murali Damodaran, and Boo Cheong Khoo.*
+
+1. **A hard constraint and domain decomposition based physics-informed neural network framework for nonhomogeneous transient thermal analysis.** TCPMT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10562356)
+
+   *Zengkai Wu, Li Jun Jiang, Sheng Sun, and Ping Li.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
